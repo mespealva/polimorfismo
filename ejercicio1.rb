@@ -36,5 +36,3 @@ class Parent < Person
     end
 end
 
-p1 = Parent.new('Jose', 'Ramos', 31)
-puts p1.introduce
